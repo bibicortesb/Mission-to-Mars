@@ -42,9 +42,15 @@ Results in a bar plot
 Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
 Find the average the daily atmospheric pressure of all the months.
 
+<img width="560" alt="Screen Shot 2023-02-25 at 12 40 41" src="https://user-images.githubusercontent.com/114015620/221374133-81cb6b18-0ec6-4cc3-8a16-bbb429381cdd.png">
 
 Plot the results as a bar chart.
+
+<img width="586" alt="Screen Shot 2023-02-25 at 12 41 07" src="https://user-images.githubusercontent.com/114015620/221374153-867ade43-4166-49df-984f-763977bb4cbf.png">
+
 About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
-Consider how many days elapse on Earth in the time that Mars circles the Sun once.
-Visually estimate the result by plotting the daily minimum temperature.
+
+<img width="588" alt="Screen Shot 2023-02-25 at 12 41 34" src="https://user-images.githubusercontent.com/114015620/221374181-ccf15831-880b-449c-8baf-36625c4efb26.png">
+
+
 
